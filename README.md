@@ -49,16 +49,9 @@ Meal discovery app — suggest dishes from ingredients you have. Gemini API for 
 
 ## 📊 Stats
 
-<div align="center">
-
-| ![Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashyap2210&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyap2210&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6) |
-|---|---|
-
-</div>
+![Kashyap's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kashyap2210&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kashyap2210&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashyap2210&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
