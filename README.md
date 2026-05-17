@@ -6,7 +6,7 @@
 
 # Hey, I'm Kashyap 👋
 
-Backend-first full stack engineer at **Bellex**, Mumbai — 1.7 years building production systems end-to-end as the sole backend dev on a 3-person team. I own the full stack: NestJS APIs, MySQL schemas, and Angular UIs, all shipped to real users.
+Backend-first full stack engineer at **Bellex**, Mumbai — 1.6 years building production systems end-to-end as the sole backend dev on a 3-person team. I own the full stack: NestJS APIs, MySQL schemas, and Angular UIs, all shipped to real users.
 
 Currently going deep on AI engineering — building LLM-powered finance tools because the intersection of money and machines is where I want to spend the next decade.
 
