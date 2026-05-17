@@ -33,16 +33,17 @@ Currently going deep on AI engineering — building LLM-powered finance tools be
 
 ## 🗂 Projects
 
-[![Invoice System](https://github-readme-stats.vercel.app/api/pin/?username=Kashyap2210&repo=invoice-system&theme=github_dark_dimmed&hide_border=true)](https://github.com/Kashyap2210/invoice-system)
-[![entity-storekit](https://github-readme-stats.vercel.app/api/pin/?username=Kashyap2210&repo=custom-entity-store&theme=github_dark_dimmed&hide_border=true)](https://github.com/Kashyap2210/custom-entity-store)
+**[⚡ Invoice & Workflow Management System](https://github.com/Kashyap2210/invoice-system)**
+Production invoice platform actively used by a company. Full stack built solo. `NestJS` `React` `MySQL` `TypeScript`
 
-**[Invoice & Workflow Management System](https://github.com/Kashyap2210/invoice-system)** — Production-grade invoice platform actively used by a company. Full stack: NestJS backend, React frontend, MySQL. Built and maintained solo. `NestJS` `React` `MySQL` `TypeScript`
+**[🔔 Service Reminder Platform](https://github.com/Kashyap2210/service_reminder_backend)**
+Multi-repo full-stack platform with separate backend, frontend, and shared common package. `NestJS` `Angular` `TypeScript`
 
-**[Service Reminder Platform](https://github.com/Kashyap2210/service_reminder_backend)** — Multi-repo full-stack platform: separate backend, frontend, and shared common package. Real production architecture. `NestJS` `Angular` `TypeScript`
+**[📦 entity-storekit](https://www.npmjs.com/package/entity-storekit)** [![npm downloads](https://img.shields.io/npm/dm/entity-storekit?color=CB3837&style=flat-square)](https://www.npmjs.com/package/entity-storekit)**
+Type-safe, entity-first state management for React. O(1) lookups, minimal footprint. Published on npm. `TypeScript` `React`
 
-**[entity-storekit](https://www.npmjs.com/package/entity-storekit)** [![npm downloads](https://img.shields.io/npm/dm/entity-storekit?color=CB3837&style=flat-square)](https://www.npmjs.com/package/entity-storekit) — Published npm library. Type-safe, entity-first state management for React using JS Maps with O(1) lookups. `TypeScript` `React` `Open Source`
-
-**[Kyakhanahai](https://github.com/Kashyap2210/kyakhanahai)** — Meal discovery app that suggests dishes from ingredients you have. Gemini API integration for conversational suggestions. `MERN` `Gemini API`
+**[🍽 Kyakhanahai](https://github.com/Kashyap2210/kyakhanahai)**
+Meal discovery app — suggest dishes from ingredients you have. Gemini API for conversational suggestions. `MERN` `Gemini API`
 
 ---
 
