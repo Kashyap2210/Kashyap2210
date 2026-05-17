@@ -26,7 +26,7 @@ Currently going deep on AI engineering — building LLM-powered finance tools be
 
 | Project | Status |
 |---|---|
-| entity-storekit — npm state management library | 🟢 Ongoing |
+| Service Reminder Platform — backend, common package & UI | 🟡 In progress |
 | Financial Research Agent — autonomous agent with live market data | 🔵 Planning |
 
 ---
