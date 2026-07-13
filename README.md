@@ -33,6 +33,9 @@ Currently going deep on AI engineering — building LLM-powered finance tools be
 
 ## 🗂 Projects
 
+**[💰 GaneshUtsav Finance Tracker](https://finance-frontend-7cta.onrender.com)**
+Live income & expense ledger web app built for my Society's GaneshUtsav Committee. Multi-repo architecture (frontend, backend, common) — deployed and actively used by the committee. `NestJS` `Angular` `PostgreSQL`
+
 **[⚡ Invoice & Workflow Management System](https://github.com/Kashyap2210/invoice-system)**
 Production invoice platform actively used by a company. Full stack built solo. `NestJS` `React` `MySQL` `TypeScript`
 
